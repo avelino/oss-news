@@ -1,2 +1,1 @@
-# oss-news
-🌐 🗣️ Open Source Weekly
+# 🌐 🗣️ Open Source Weekly
