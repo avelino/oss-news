@@ -13,3 +13,9 @@ https://www.linkedin.com/pulse/discovering-value-among-github-stars-jeroen-van-b
 An open-source & self-hostable Heroku / Netlify alternative
 
 https://coolify.io/
+
+## Open Source collective hell game
+
+[GitHub, A Little Game Called Mario](https://github.com/a-little-org-called-mario/a-little-game-called-mario)
+
+https://twitter.com/iznaut/status/1508179935977947142
