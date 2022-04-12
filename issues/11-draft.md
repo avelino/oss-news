@@ -24,7 +24,7 @@ https://twitter.com/iznaut/status/1508179935977947142
 
 Researchers hope that by raising awareness of the most widely used open source packages, they can help prevent the next Log4j or Heartbleed exploit from happening.
 
-[read more](https://www.infoworld.com/article/3652268/harvard-census-identifies-most-commonly-used-open-source-packages.html)
+[**read more**](https://www.infoworld.com/article/3652268/harvard-census-identifies-most-commonly-used-open-source-packages.html)
 
 ## The Power of Diversity in Open Source Communities with Rachel Lawson
 
@@ -32,3 +32,11 @@ Researchers hope that by raising awareness of the most widely used open source p
 > Rachel has now moved on to the Digital Impact Alliance, a part of the United Nations Foundation, where she works towards the adoption of Open Source within governments. However, she continues to be a part of the Drupal community as a Core mentoring Coordinator.
 
 https://www.youtube.com/watch?v=RZujw8WnNzM
+
+## Kestra: a Scalable Open-Source Orchestration and Scheduling Platform
+
+[Kestra](https://github.com/kestra-io/kestra), a new open-source orchestration and scheduling platform, helps developers to build, run, schedule, and monitor complex pipelines.
+
+It is built upon well-known tools like Apache Kafka and ElasticSearch. The Kafka architecture provides scalability: every worker in Kestra cluster is implemented as a Kafka consumer and the state of the execution of a workflow is managed by an executor implemented with Kafka Streams. ElasticSearch is used as a database that allows displaying, searching and aggregating all the data.
+
+[**read more**](https://www.infoq.com/news/2022/03/kestra-orchestration-platform/)
