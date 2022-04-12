@@ -25,3 +25,10 @@ https://twitter.com/iznaut/status/1508179935977947142
 Researchers hope that by raising awareness of the most widely used open source packages, they can help prevent the next Log4j or Heartbleed exploit from happening.
 
 [read more](https://www.infoworld.com/article/3652268/harvard-census-identifies-most-commonly-used-open-source-packages.html)
+
+## The Power of Diversity in Open Source Communities with Rachel Lawson
+
+> Rachel Lawson has been an active contributor to the Drupal project for over 15 years. Rachel’s work as a Community Liaison involved helping the Drupal Association better understand the needs of the Drupal Community and to help the Community realise how the Association supports them.
+> Rachel has now moved on to the Digital Impact Alliance, a part of the United Nations Foundation, where she works towards the adoption of Open Source within governments. However, she continues to be a part of the Drupal community as a Core mentoring Coordinator.
+
+https://www.youtube.com/watch?v=RZujw8WnNzM
