@@ -1,8 +1,8 @@
 # 🌐 🗣️ Open Source Weekly - Issue #11
 
-## Discovering value among Github stars
+## Discovering value among Github Stars
 
-> Some days ago there was a trigger in the form of a Tweet, with an implicit question of how to find projects showing super-linear growth trends. The Github Archive project provides access to the data set covering online activity, and Google's BigQuery enables developers to run SQL queries against it.
+Some days ago there was a trigger in the form of a Tweet, with an implicit question of how to find projects showing super-linear growth trends. The Github Archive project provides access to the data set covering online activity, and Google's BigQuery enables developers to run SQL queries against it.
 
 by [Jeroen van Bemmel](https://www.linkedin.com/in/jeroenvbemmel/)
 
