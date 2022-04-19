@@ -19,3 +19,29 @@ And maybe that’s all your team needs to do! And look, that’s okay. But I thi
 These fundamentals can be applied using different tools. The tools are not the fundamentals. It’s the ideas and concepts that we have been talking about today.
 
 [read more](https://changelog.com/posts/automation-is-the-serialization-of-understanding)
+
+## How we lost 54k GitHub stars
+
+I remember the rush of HTTPie becoming the top link on Hacker News for the first time and seeing the GitHub community build up. Over the years as we continued to improve the project it kept attracting widespread adoption. It became the most popular API tool on the platform, and the GitHub community grew to 54k stargazers and 1k+ watchers.
+
+![How we lost 54k GitHub stars](https://httpie.io/_next/image?url=%2FBlog%2Fstardust%2Fstars2-547OUVWE.png&w=1920&q=95)
+
+However, if you are one of our 55k stargazers and watchers, as of a few weeks ago you no longer are 💔
+
+**What happened?**
+
+Due to an unfortunate sequence of events, I accidentally made the project’s repository private for a moment. And GitHub cascade-deleted our community that took 10 years to build.
+
+[read more](https://httpie.io/blog/stardust)
+
+## Third npm protestware: 'event-source-polyfill' calls Russia out
+
+![Third npm protestware: 'event-source-polyfill' calls Russia out](https://www.bleepstatic.com/content/hl-images/2022/03/17/npm-bg.png)
+
+Developers are increasingly voicing their opinions through their open source projects in active use by thousands of software applications and organizations.
+
+To do this, a maintainer adds broken code, protest messages, or undesired damaging functionality in the latest versions of their project without documenting it beforehand.
+
+> if you (or the company you work for) use open source libraries you should be aware of the updates of the project you are using and pin the version of the library you are using
+
+[read more](https://www.bleepingcomputer.com/news/security/third-npm-protestware-event-source-polyfill-calls-russia-out/)
