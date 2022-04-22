@@ -1,5 +1,11 @@
 # 🌐 🗣️ Open Source Weekly - Issue #13
 
+## 1 million users on Hoppscotch
+
+> congratulations for the mark achieved
+
+https://twitter.com/hoppscotch_io/status/1514140076431020032
+
 ## Trendiest open-source React admin template - Horizon UI
 
 ![Horizon UI](https://ph-files.imgix.net/d55b472a-01e4-4c4f-9528-2ad5a76ed1b9.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=635&h=380&fit=max&bg=0fff&dpr=1)
