@@ -45,3 +45,11 @@ To do this, a maintainer adds broken code, protest messages, or undesired damagi
 > if you (or the company you work for) use open source libraries you should be aware of the updates of the project you are using and pin the version of the library you are using
 
 [read more](https://www.bleepingcomputer.com/news/security/third-npm-protestware-event-source-polyfill-calls-russia-out/)
+
+## What’s the Best Programming Language to Learn in 2022?
+
+Some languages are popular and oversaturated, while others are trendy but obscure among recruiters. Either way it can be hard to find a job with them. Other coding languages are very old and it can be hard to break into an industry with developers who possess 20+ years of experience. Some are high in demand and low in supply, but very difficult to learn and apply.
+
+> Why not look at the market behavior in the use of programming languages to know where to invest your time?
+
+[read more](https://torquemag.io/2022/04/best-programming-language-to-learn/)
