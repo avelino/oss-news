@@ -9,3 +9,11 @@ Open source has played an enormous role in getting me closer to my next opportun
 Starting [Chakra UI](https://github.com/chakra-ui/chakra-ui) and getting to a place where it became very popular in the React community has been a journey into the unknown. I had little experience contributing to open source when I started Chakra UI, let alone experience managing such a popular project.
 
 [read more](https://github.com/readme/guides/maintaining-oss-projects)
+
+## GitHub Codespaces Add Support for Microservices and Monorepo Projects
+
+GitHub continues to extend its cloud-based development environment Codespaces, aiming to make it more flexible and increase developer productivity. Specifically, the latest release of Codespaces targets teams [developing microservices or using a large monorepo](https://github.blog/2022-04-20-codespaces-multi-repository-monorepo-scenarios/).
+
+After introducing [prebuilt Codespaces](https://dev.to/prestd/constant-work-to-onboarding-new-members-into-engineering-team-18k0) to speed the time required to spin up a development environment, GitHub has been working to make Codespaces better suited to working with multi-repository and monorepo projects and make it easier for larger organization to adopt them.
+
+[read more](https://www.infoq.com/news/2022/05/GitHub-codespaces-microservices)
