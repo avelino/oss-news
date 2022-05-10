@@ -1,5 +1,13 @@
 # 🌐 🗣️ Open Source Weekly - Issue #14
 
+## Championing the nontraditional path - Peggy Rayzis
+
+![Peggy Rayzis](https://pbs.twimg.com/profile_banners/711729626482081792/1509477743/1500x500)
+
+> There’s more to programming than math and science skills. Peggy shares how creativity and building inclusively led her to OSS success and her current role leading developer experience at Apollo.
+
+[read story](https://github.com/readme/stories/peggy-rayzis)
+
 ## How to Contribute to Open-Source Projects – A Beginner's Guide
 
 ![How to Contribute to Open-Source Projects – A Beginner's Guide](https://www.freecodecamp.org/news/content/images/size/w2000/2022/04/open-source-contributions.jpeg)
