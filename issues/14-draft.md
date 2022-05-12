@@ -38,13 +38,8 @@ https://www.youtube.com/watch?v=i7OqSVHjY1k
 
 [project source](https://github.com/keploy/keploy)
 
-## Open-source regulation — good idea?
+## EVENT: Beam Day 2022 on Google Open Source Live
 
-> I don't think it sounds like a good idea, but there are some good points in having an open source regulator, but I feel that it would end the existing freedom
-> by [Avelino](https://twitter.com/avelinorun)
+This month’s Google Open Source Live will highlight **What is Apache Beam?** Introduction to Beam along with multiple sessions presented by Beam team members and the community. Join us to learn **Dataflow Templates: Staging Beam Pipelines on Google Cloud, Apache Beam I/O Connectors**, as well as **Scaled Machine Learning Inference with Apache Beam.**
 
-Earlier this year, the open-source community came under the scrutiny of a US Senate committee investigating a serious vulnerability in Log4j, a widely used, Java-based logging utility. Government experts say the vulnerability, called [Log4Shell](https://www.cisa.gov/uscert/ncas/alerts/aa21-356a), was one of the most severe and widespread cybersecurity risks they've ever seen. The question is what to do now about security risks in open-source software—if anything.
-
-"The recent Log4j open-source software vulnerability is yet another example as to why safeguarding open-source software is critical," said [Slava Bronfman](https://www.linkedin.com/in/slava-bronfman/?originalSubdomain=il), CEO and co-founder of Cybellum, a cybersecurity platform maker located in Tel Aviv, Israel.
-
-[read more](https://techbeacon.com/security/open-source-regulation-good-idea)
+[event page](https://opensourcelive.withgoogle.com/events/beam-day-2022)
