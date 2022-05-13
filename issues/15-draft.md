@@ -10,6 +10,8 @@ Starting [Chakra UI](https://github.com/chakra-ui/chakra-ui) and getting to a pl
 
 [read more](https://github.com/readme/guides/maintaining-oss-projects)
 
+---
+
 ## GitHub Codespaces Add Support for Microservices and Monorepo Projects
 
 GitHub continues to extend its cloud-based development environment Codespaces, aiming to make it more flexible and increase developer productivity. Specifically, the latest release of Codespaces targets teams [developing microservices or using a large monorepo](https://github.blog/2022-04-20-codespaces-multi-repository-monorepo-scenarios/).
@@ -17,6 +19,8 @@ GitHub continues to extend its cloud-based development environment Codespaces, a
 After introducing [prebuilt Codespaces](https://dev.to/prestd/constant-work-to-onboarding-new-members-into-engineering-team-18k0) to speed the time required to spin up a development environment, GitHub has been working to make Codespaces better suited to working with multi-repository and monorepo projects and make it easier for larger organization to adopt them.
 
 [read more](https://www.infoq.com/news/2022/05/GitHub-codespaces-microservices)
+
+---
 
 ## Open-source regulation — good idea?
 

@@ -7,3 +7,5 @@
 Introduction Open Sauced, GitHub's Explore page, Hacktoberfest, and First Timers Only help folks discover open source projects. This monthly series–Open Source Monthly—will add to these efforts by helping: First-time contributors…
 
 [read more](https://github.blog/2022-05-11-open-source-monthly-may-2022-edition/)
+
+---
