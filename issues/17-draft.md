@@ -17,3 +17,27 @@ Output-focus is a key contributing factor here. In a company where goals and inc
 > **Itamar Gilad** wrote an excellent blogpost about the big project syndrome that can be a culture destroyer for any company that has _difficulty prioritizing and balancing future vision and present moment_.
 
 [read more](https://itamargilad.com/big-projects/)
+
+---
+
+## Announcing program for Open source projects
+
+![Announcing program for Open source projects](https://aviyel.com/cdn-cgi/image/format=auto/https://lh5.googleusercontent.com/Jdj-IKpaQE_48MiqCi92NWr-RSAUSevj4zgarHUEOXj3Ah7ikIuWLYAKQrBa_gy_Ekt7FVxTEmvmm9ARaoSvrE7SQ6KN7xVHw-tFQox8bUpK6s_QVsJmS-2x20dQedQN7zXA-6m0pQUiHoSrzQ)
+
+After extensive research and feedbacks from Maintainers and Contributors, **Aviyel** is calling out for Open Source projects.
+
+Considering the efforts and challenges of Maintainers and Contributors, we are introducing a program for Open Source projects to participate in exciting initiatives.
+
+This is intended to activate and enhance the Community's productivity, as well as boost adoption, recognition, inclusion, value sharing, and community involvement.
+
+[read more](https://aviyel.com/post/3031/announcing-program-for-open-source-projects)
+
+---
+
+## Announcing PSP Security Protocol is now open source
+
+![Announcing PSP Security Protocol is now open source](https://storage.googleapis.com/gweb-cloudblog-publish/images/1_PSP_Security_Protocol.0997064714351294.max-2000x2000.jpg)
+
+Almost a decade ago, we started encrypting traffic between our data centers to help protect user privacy. Since then, we gradually rolled out changes to encrypt almost all data in transit. Our approach is described in our Encryption in Transit whitepaper. While this effort provided invaluable privacy and security benefits, software encryption came at significant cost: it took ~0.7% of Google's processing power to encrypt and decrypt RPCs, along with a corresponding amount of memory. Such costs spurred us to offload encryption to our network interface cards (NICs) using PSP (a recursive acronym for PSP Security Protocol), which we are open sourcing today
+
+[read more](https://cloud.google.com/blog/products/identity-security/announcing-psp-security-protocol-is-now-open-source)
