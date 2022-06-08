@@ -19,3 +19,11 @@ Skiff Mail is privacy-first, end-to-end encrypted, Web3-native, open-source emai
 [read more](https://www.infoq.com/news/2022/05/allen-ai-lm-debugger/)
 
 ---
+
+## Brave Welcomes 6 Leading DApps to its new Wallet Partner Program
+
+When [Brave Wallet](https://brave.com/brave-wallet-launch/) users have their wallets active, the Brave browser automatically detects Web3 DApps. However, many users benefit from the inclusion of the Brave Wallet as an option among those enumerated to DApp users, including users who have yet to discover Brave Wallet or are navigating the Web in Brave with their wallet still in a locked state.
+
+[read more](https://brave.com/wallet-partner-program/)
+
+---
